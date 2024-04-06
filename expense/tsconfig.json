@@ -15,10 +15,9 @@
     "strictNullChecks": false,
     "noImplicitAny": false,
     "strictBindCallApply": false,
-    "forceConsistentCasingInFileNames": true,
+    "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "strict": true,
-    "esModuleInterop": true,
-    "types": ["jest"]
+    "esModuleInterop": true
   }
 }
